@@ -1,6 +1,3 @@
-import math
-
-
 class GrowingList(list):
 
     def __getitem__(self, index):
